@@ -7,8 +7,8 @@
     "analytics": "^0.8.0",
     "faunadb": "^4.0.0",
     "markdown-magic": "^3.0.0",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "react-scripts": "5.0.1"
   },
   "scripts": {
